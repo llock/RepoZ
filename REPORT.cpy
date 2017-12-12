@@ -1,4 +1,4 @@
-      ***             P R O G R A M  C H A N G E  L O G                *
+ O G R A M  C H A N G E  L O G                *
       ******************************************************************
       *  CHANGED BY:                                  DATE:            *
       *                                                                *
